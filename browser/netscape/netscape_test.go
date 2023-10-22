@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/browserutils/kooky/internal/testutils"
+	"github.com/jeremy-cxf/kooky/internal/testutils"
 )
 
 func TestReadCookies(t *testing.T) {

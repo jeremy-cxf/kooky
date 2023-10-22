@@ -6,8 +6,8 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/browserutils/kooky"
-	"github.com/browserutils/kooky/internal/timex"
+	"github.com/jeremy-cxf/kooky"
+	"github.com/jeremy-cxf/kooky/internal/timex"
 
 	"github.com/Velocidex/ordereddict"
 	"www.velocidex.com/golang/go-ese/parser"

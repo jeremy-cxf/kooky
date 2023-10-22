@@ -3,8 +3,8 @@ package kooky_test
 import (
 	"fmt"
 
-	"github.com/browserutils/kooky"
-	_ "github.com/browserutils/kooky/browser/all" // This registers all cookiestore finders!
+	"github.com/jeremy-cxf/kooky"
+	_ "github.com/jeremy-cxf/kooky/browser/all" // This registers all cookiestore finders!
 	// _ "github.com/browserutils/kooky/browser/chrome" // load only the chrome cookiestore finder
 )
 

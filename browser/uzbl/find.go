@@ -7,9 +7,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/browserutils/kooky"
-	"github.com/browserutils/kooky/internal/cookies"
-	"github.com/browserutils/kooky/internal/netscape"
+	"github.com/jeremy-cxf/kooky"
+	"github.com/jeremy-cxf/kooky/internal/cookies"
+	"github.com/jeremy-cxf/kooky/internal/netscape"
 )
 
 type uzblFinder struct{}

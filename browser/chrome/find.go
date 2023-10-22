@@ -1,10 +1,10 @@
 package chrome
 
 import (
-	"github.com/browserutils/kooky"
-	"github.com/browserutils/kooky/internal/chrome"
-	"github.com/browserutils/kooky/internal/chrome/find"
-	"github.com/browserutils/kooky/internal/cookies"
+	"github.com/jeremy-cxf/kooky"
+	"github.com/jeremy-cxf/kooky/internal/chrome"
+	"github.com/jeremy-cxf/kooky/internal/chrome/find"
+	"github.com/jeremy-cxf/kooky/internal/cookies"
 )
 
 type chromeFinder struct{}

@@ -1,7 +1,7 @@
 package netscape
 
 import (
-	"github.com/browserutils/kooky/internal/cookies"
+	"github.com/jeremy-cxf/kooky/internal/cookies"
 )
 
 type CookieStore struct {

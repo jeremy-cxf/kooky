@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/browserutils/kooky/browser/chrome"
+	"github.com/jeremy-cxf/kooky/browser/chrome"
 )
 
 // on macOS:

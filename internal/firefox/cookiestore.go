@@ -5,7 +5,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/browserutils/kooky/internal/cookies"
+	"github.com/jeremy-cxf/kooky/internal/cookies"
 	"github.com/go-sqlite/sqlite3"
 )
 
